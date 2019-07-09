@@ -9,3 +9,5 @@ Disallow:
 # some line
 
 #JCM is adding this line to demonstrate the usage of the git-pull command
+
+#JCM is adding another line to demonstrate the usage of git-pull, having messed up the first time.
