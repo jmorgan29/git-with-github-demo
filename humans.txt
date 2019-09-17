@@ -1,3 +1,4 @@
+
 # humanstxt.org/
 # The humans responsible & technology colophon
 # this is a demo of git pull command
@@ -16,3 +17,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+
+# This is a Josh Morgan addition to the file.
+
