@@ -15,3 +15,6 @@ Disallow:
 #JCM is adding another line to demonstrate the usage of git-pull, having messed up the first time.
 
 #JCM is adding this line to demonstrate the usage of git-push, and will hopefully do it correctly on the first attempt.
+
+
+#JCM is adding this line to demonstrate the usage of SSH protocol
